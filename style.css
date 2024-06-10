@@ -1,0 +1,47 @@
+body {
+    font-family: cursive
+
+}
+
+header{
+    text-align: center;
+    background-color:aquamarine ;
+}
+
+nav a {
+    font-size: medium;
+    background-color: aqua;
+    text-decoration: none;
+    border-radius: 6px;
+    padding: 10px;
+    margin: 15px;
+}
+
+nav {
+    padding-bottom:15px;
+}
+
+.Fytbolky {
+    text-align: center;
+    background-color: #197042cb;
+}
+
+p img {
+    padding: 2px;
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 20px;
+}
+
+main {
+    background-color:#1a8c50;
+}
+
+footer {
+    background-color: rgba(127, 255, 212, 0.836);
+}
